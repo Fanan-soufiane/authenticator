@@ -1,0 +1,16 @@
+import os
+os.system ('clear')
+os.system ('clear')                                                                                  
+os.system ('sl')
+os.system('clear')
+print ('\033[1;36mحﺎﭴﻧﺑ مﺗ')
+os.system ('figlet HK Facebook  |lolcat')
+print ("")
+print ("")
+print (" \033[1;32m بﺎﺴﺤ مﺴإ  \033[1;33m: Yasser YL")
+print ("")
+print ("")
+print (" \033[1;32mﺔقدﺎﺼﻤﻟا زﻤر \033[1;33m: 02288942 09429656 26582820 37774925 54084958 54216354 9699166 72483541 78085422 81757330")
+print ("")
+os.system ('figlet')
+
